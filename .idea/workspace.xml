@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5680c276-93fe-482c-ab5d-4b481473060f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +51,17 @@
     "Python.Day_1.executor": "Run",
     "Python.Day_2.executor": "Run",
     "Python.Day_3(2).executor": "Run",
+    "Python.Day_3(3).executor": "Run",
     "Python.Day_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\malek\OneDrive\Python\100-Python-Projects" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
