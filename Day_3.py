@@ -1,5 +1,5 @@
 print('''************************************
-Day 02 of 100 days of Python Project
+Day 03 of 100 days of Python Project
 ************************************''')
 
 print("Welcome to ODD-EVEN CHECKER")
