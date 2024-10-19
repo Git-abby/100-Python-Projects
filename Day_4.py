@@ -35,7 +35,6 @@ final_password = ""
 for chars in psw_chars:
     final_password += chars
 
-#
 print(final_password)
 
 
