@@ -6,13 +6,15 @@ def caesar(original_text, shift_amount, encode_or_decode):
     output_text = ""
 
     for letter in original_text:
+        if letter not in alphabet:
+            output_text += letter
+        else:
+            if encode_or_decode == "decode":
+                shift_amount *= -1
 
-        if encode_or_decode == "decode":
-            shift_amount *= -1
-
-        shifted_index = alphabet.index(letter) + shift_amount
-        shifted_index %= len(alphabet)
-        output_text += alphabet[shifted_index]
+            shifted_index = alphabet.index(letter) + shift_amount
+            shifted_index %= len(alphabet)
+            output_text += alphabet[shifted_index]
 
     print(f"Your Result is here : {output_text}")
 
