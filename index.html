@@ -8,28 +8,53 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            background-color: #f4f4f4;
+            animation: backgroundFade 10s infinite alternate;
         }
         h1, h2 {
             color: #2c3e50;
             font-size: 24px;
-        }
-        h2 {
-            margin-top: 20px;
-            font-size: 20px;
+            text-align: center;
+            animation: fadeIn 2s ease-in;
         }
         ol {
             padding-left: 20px;
-        }
-        a {
-            text-decoration: none;
-            color: #2980b9;
-        }
-        a:hover {
-            text-decoration: underline;
+            animation: slideIn 1s ease-in-out;
         }
         li {
-            margin-bottom: 8px;
+            margin-bottom: 12px;
+            font-size: 18px;
+            color: #2980b9;
+            list-style-type: none;
+            background: #ecf0f1;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, background-color 0.3s;
+            cursor: pointer;
         }
+        li:hover {
+            background-color: #3498db;
+            color: #fff;
+            transform: scale(1.05);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from { transform: translateX(-50%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+
+        @keyframes backgroundFade {
+            0% { background-color: #f4f4f4; }
+            100% { background-color: #d1f5ff; }
+        }
+
     </style>
 </head>
 <body>
@@ -38,21 +63,15 @@
 <h2>#100-Python-Projects</h2>
 
 <ol>
-    <li>
-        <a href="/Day_1.py">Day 01: Simple Print Statement</a>
-    </li>
-    <li>
-        <a href="/Day_2.py">Day 02: Tip Calculator</a>
-    </li>
-    <li>
-        <a href="/Day_3.py">Day 03: Odd / Even Checker</a>
-    </li>
-    <li>
-        <a href="/Day_3_2.py">Day 03(2): Python Pizza Deliveries!</a>
-    </li>
-    <li>
-        <a href="/Day_3_3.py">Day 03(3): Project Treasure Island</a>
-    </li>
+    <li>Day 01: Simple Print Statement</li>
+    <li>Day 02: Tip Calculator</li>
+    <li>Day 03: Odd / Even Checker</li>
+    <li>Day 03(2): Python Pizza Deliveries!</li>
+    <li>Day 03(3): Project Treasure Island</li>
+    <li>Day 04: Password Maker</li>
+    <li>Day 05: Hangman Game</li>
+    <li>Day 06: Caesar Cipher</li>
+    <li>Day 07: The Secret Auction</li>
 </ol>
 
 </body>
