@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5680c276-93fe-482c-ab5d-4b481473060f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.Day_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_3(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_3(3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/malek/OneDrive/Python/100 Days of Code - The Complete Python Pro Bootcamp&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Day_1.executor": "Run",
+    "Python.Day_2.executor": "Run",
+    "Python.Day_3(2).executor": "Run",
+    "Python.Day_3(3).executor": "Run",
+    "Python.Day_3.executor": "Run",
+    "Python.Day_4.executor": "Run",
+    "Python.Day_6.executor": "Run",
+    "Python.art.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/malek/OneDrive/Python/100 Days of Code - The Complete Python Pro Bootcamp"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\malek\OneDrive\Python\100-Python-Projects" />
