@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5680c276-93fe-482c-ab5d-4b481473060f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_19/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_19/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +59,16 @@
     "Python.Day_6.executor": "Run",
     "Python.art.executor": "Run",
     "Python.data.executor": "Run",
+    "Python.git_clone.executor": "Run",
     "Python.main.executor": "Run",
     "Python.quiz_brain.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.snake.executor": "Run",
     "Python.spiral.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/malek/OneDrive/Python/100-Python-Projects/Day_19",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">

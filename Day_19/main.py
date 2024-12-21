@@ -18,8 +18,10 @@ color_bank = [(233, 233, 232), (237, 232, 234), (231, 233, 238), (224, 233, 226)
 tom = t.Turtle()
 jerry = t.Screen()
 tom.speed(0)
+
 x = -225
 y = -215
+
 for _ in range(10):
 
     tom.penup()
